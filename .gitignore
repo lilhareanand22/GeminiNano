@@ -1,0 +1,36 @@
+# Android/IntelliJ
+*.iml
+.gradle
+local.properties
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Agent related files
+AGENTS.md
+.skills/
+.ai/
+.idea/
+
+# Built artifacts
+*.apk
+*.aar
+*.ap_
+*.dex
+/app/build/
+
+# Log files
+*.log
+
+# OS generated
+ehthumbs.db
+Thumbs.db
