@@ -51,15 +51,3 @@ The playground supports six local AI operations:
 
 ---
 
-## Build & Run
-
-### Prerequisites
-- **Android Studio** Ladybug or newer.
-- **Android SDK** version 35 (API level 35).
-- A compatible device (e.g., Pixel 8+, Samsung Galaxy S24+) with **AICore** enabled.
-
-### Compilation
-Compile the project from the root folder:
-```bash
-./gradlew compileDebugKotlin
-```
